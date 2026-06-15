@@ -1,42 +1,26 @@
 [Reflection](index.md) | [Project](project.md)
 
-# Final GIS Project
+# Data exploration of citizen study ‘Looking for Cowslips’
 
-## Project Overview
+## Introduction & data
 
 TODO: Briefly describe the project.
 
-## Research Question / Objective
+## Geospatial narrative
 
 TODO: Explain the purpose of the project.
 
-## Data
-
-TODO: List datasets used.
-
-## Methods
-
-TODO: Describe workflow and analysis steps.
-
-## Study Area
-
 ![](nurmenukk5.png)
-
-## Results Map
 
 ![](obs_per_qountry_over35.png)
 
-## Interactive Map
-
-TODO: Embed interactive map here.
-
-## Results
-
-TODO: Describe findings.
+TODO: embed interactive maps here
 
 ## Conclusion
 
-TODO: Summarize conclusions and key takeaways.
+TODO: List datasets used.
+
+## References
 
 ---
 
