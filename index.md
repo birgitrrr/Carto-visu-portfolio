@@ -8,6 +8,9 @@
 
 Paste final reflection here.
 
+## Task 1 map
+
+![](task1_polkualepa3.png)
 ---
 
 ## Final Project
