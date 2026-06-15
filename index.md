@@ -10,7 +10,10 @@ Paste final reflection here.
 
 ## Task 1 map
 
-<img src="task1_polkualepa3.png" width="800">
+<figure>
+  <img src="task1_polkualepa3.png" width="800">
+  <figcaption>Figure 1. Exercise 1 map.</figcaption>
+</figure>
 ---
 
 ## Data exploration of citizen study ‘Looking for Cowslips’
