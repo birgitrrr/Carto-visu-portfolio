@@ -14,7 +14,7 @@ Figure 2. Photo of cowslip. Nurmenukk (n.d.).
 
 TODO: Explain the purpose of the project.
 
-![](nurmenukk5.png)
+<img src="nurmenukk5.png" width="100%">
 
 Figure 3. Map of observation density and activity in countries. Used coordinate system was ESPG:3301.
 
