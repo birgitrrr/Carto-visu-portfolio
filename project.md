@@ -18,9 +18,13 @@ TODO: List datasets used.
 
 TODO: Describe workflow and analysis steps.
 
-## Maps
+## Study Area
 
-TODO: Add maps here.
+![](nurmenukk5.png)
+
+## Results Map
+
+![](obs_per_qountry_over35.png)
 
 ## Interactive Map
 
