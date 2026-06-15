@@ -22,13 +22,31 @@ Figure 3. Map of observation density and activity in countries. Used coordinate 
 
 Figure 4. Bar plot of cowslip of highest number of observations per country (N>=35).
 
-TODO: embed interactive maps here
+<h2>Interactive Map 1</h2>
+
+<iframe
+src="interactive/map1/"
+width="100%"
+height="700"
+frameborder="0">
+</iframe>
+
+<h2>Interactive Map 2</h2>
+
+<iframe
+src="interactive/map2/"
+width="100%"
+height="700"
+frameborder="0">
+</iframe>
 
 ## Conclusion
 
-TODO: List datasets used.
+TODO: Paste conclusion.
 
 ## References
+
+Paste references.
 
 ---
 
