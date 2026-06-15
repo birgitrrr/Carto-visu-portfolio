@@ -1,10 +1,10 @@
-# GIS Course Portfolio
+# Final portfolio in Cartographic Visualisation
 
 [Reflection](index.md) | [Project](project.md)
 
 ---
 
-## Reflection
+## Cartographic reflection
 
 Paste final reflection here.
 
@@ -13,7 +13,7 @@ Paste final reflection here.
 ![](task1_polkualepa3.png)
 ---
 
-## Final Project
+## Data exploration of citizen study ‘Looking for Cowslips’
 
 The project page can be accessed here:
 
