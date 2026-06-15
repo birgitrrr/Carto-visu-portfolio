@@ -6,6 +6,10 @@
 
 TODO: Briefly describe the project.
 
+![](20180511KK0490-min_large.jpg)
+
+Cowslip. Nurmenukk (n.d.).
+
 ## Geospatial narrative
 
 TODO: Explain the purpose of the project.
