@@ -6,7 +6,7 @@
 
 TODO: Briefly describe the project.
 
-![](20180511KK0490-min_large.jpg)
+<img src="20180511KK0490-min_large.jpg" width="100%">
 
 Figure 2. Photo of cowslip. Nurmenukk (n.d.).
 
