@@ -13,9 +13,10 @@ In fact, I have a personal connection with this data. The plant is edible and ve
 Since most maps I have created during my (short) GIS career have been about urban environments, I decided to choose a different topic and a different scale for this project for the sake of challenge and new insights. Biodiversity is dear to my heart and highly relevant in both urban and broader regional contexts, especially when dealing with the important question of how landscape change affects biodiversity. Biodiversity is complex and also depends on the wellbeing of pollinators. I find it fascinating how citizens can be engaged in studying such an important and large-scale challenge. In conclusion, I decided to choose a dataset that would allow me to gain new knowledge about mapmaking.
 Regarding the data used, GBIF (2026) cowslip observation data (2016–2026) was also used to visualise the approximate habitat area of the plant.
 
-<img src="20180511KK0490-min_large.jpg" width="100%">
-
-Figure 2. Photo of cowslip. Nurmenukk (n.d.).
+<figure>
+  <img src="20180511KK0490-min_large.jpg" width="50%">
+  <figcaption>Figure 2. Photo of cowslip. Nurmenukk (n.d.).</figcaption>
+</figure>
 
 ## Geospatial narrative
 
@@ -24,6 +25,8 @@ Cowslip is a fairly common spring flower in Europe. As a habitat, it prefers tra
 The citizen science campaign Looking for Cowslips gathered observations from 31 countries. Not all countries where cowslip is common, such as Moldova, Serbia, Kosovo, and Bosnia and Herzegovina, were covered (Aavik et al., 2025). The campaign webpage was translated into 24 languages to reach people across Europe.
 
 On the map below (Figure 3), we see that the countries with the most observations were Estonia, Latvia, and the UK. The flower’s habitat, according to GBIF observations, is widespread in Europe, but this does not indicate density. In addition, the grids with the highest density of observations (25–48 observations per 20 km × 20 km) were found in Estonia, Sweden, and the UK. From the bar plot (Figure 4), one can see that the highest number of observations came from the UK, Estonia, and then Latvia. Theoretically, the ratio of S- and L-morphs should be equal in a cowslip population for successful reproduction. The results of the study, however, found an excess of S-morphs. The smaller the population, the more frequent this phenomenon was. In addition, it was associated with higher summer precipitation and land-use intensity (Aavik et al., 2025).
+
+
 
 <img src="nurmenukk5.png" width="100%">
 
