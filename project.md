@@ -14,7 +14,7 @@ Since most maps I have created during my (short) GIS career have been about urba
 Regarding the data used, GBIF (2026) cowslip observation data (2016–2026) was also used to visualise the approximate habitat area of the plant.
 
 <figure>
-  <img src="20180511KK0490-min_large.jpg" width="50%">
+  <img src="20180511KK0490-min_large.jpg" width="25%">
   <figcaption>Figure 2. Photo of cowslip. Nurmenukk (n.d.).</figcaption>
 </figure>
 
@@ -28,12 +28,12 @@ On the map below (Figure 3), we see that the countries with the most observation
 
 
 <figure>
-  <img src="nurmenukk5.png" width="800">
+  <img src="nurmenukk5.png" width="400">
   <figcaption>Figure 3. Map of observation density and activity in countries. Used coordinate system was ESPG:3301.</figcaption>
 </figure>
 
 <figure>
-  <img src="obs_per_qountry_over35.png" width="800">
+  <img src="obs_per_qountry_over35.png" width="200">
   <figcaption>Figure 4. Bar plot of cowslip of highest number of observations per country (N>=35).</figcaption>
 </figure>
 
