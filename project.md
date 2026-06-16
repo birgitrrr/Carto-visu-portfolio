@@ -28,12 +28,12 @@ On the map below (Figure 3), we see that the countries with the most observation
 
 
 <figure>
-  <img src="nurmenukk5.png" width="600">
+  <img src="nurmenukk5.png" width="700">
   <figcaption>Figure 3. Map of observation density and activity in countries. Used coordinate system was ESPG:3301.</figcaption>
 </figure>
 
 <figure>
-  <img src="obs_per_qountry_over35.png" width="400">
+  <img src="obs_per_qountry_over35.png" width="600">
   <figcaption>Figure 4. Bar plot of cowslip of highest number of observations per country (N>=35).</figcaption>
 </figure>
 
