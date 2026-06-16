@@ -8,6 +8,14 @@
 
 Looking at my first map created during the Cartographic Visualisation course (Figure 1), I consider it fairly good. I’ll therefore start with the positive aspects of the map according to my current knowledge. Firstly, I think it is clear and visually pleasing. Most importantly, there is no excessive visual clutter. This was emphasised many times during the course – to make the map as simple as possible. I didn’t include any unnecessary borders or lines, for example around the map legend, that would attract too much attention. The colours are easily identifiable, and there are only five of them, which is within the optimal range (5–7). The map legend is situated right next to the map, which allows for optimal sight lines. The fonts and overall map readability are accessible.
 
+<div align="center">
+
+<img src="task1_polkualepa3.png" width="800">
+
+<p><em>Figure 1. Map from exercise 1. Map of HSL city bike stations in Helsinki and Espoo in 2021. Bike station data from Helsingin Seudun Liikenteen (HSL) and small areas from Helsinki Region Environmental Services Authority (HSY). Map was created using QGIS. Used coordinate system was EPSG:3067.</em></p>
+
+</div>
+
 However, there are still things I would change in the map if I redid it. The most important change I would make is not exactly about the visuals but about the data, which then affects the visual appearance and interpretation as well. I would divide the number of stations in districts by their areas. I don’t think this is a major problem in the current map because the legend title clearly states that the number of city bike stations is visualised. However, more meaningful patterns would be revealed if the spatial aspect were considered. This was also mentioned in the feedback on the first exercise.
 
 In addition to that, I would add the district names in a very reserved way. It would create significantly more visual clutter, but I think the increase in informativeness would outweigh that. I experimented with different aspects of text during the course, so maybe I could come up with a good solution.
@@ -18,13 +26,6 @@ Probably the biggest and most important insight I gained from the course is to a
 
 These new learnings will keep me discovering new options, plugins, and map making possibilities. I will continue developing my cartographic skills with curiosity. I am especially excited to start learning Python next fall to expand my cartography skills even further and discover new ways of working with spatial data.
 
-<div align="center">
-
-<img src="task1_polkualepa3.png" width="800">
-
-<p><em>Figure 1. Map from exercise 1. Map of HSL city bike stations in Helsinki and Espoo in 2021. Bike station data from Helsingin Seudun Liikenteen (HSL) and small areas from Helsinki Region Environmental Services Authority (HSY). Map was created using QGIS. Used coordinate system was EPSG:3067.</em></p>
-
-</div>
 ---
 
 ## Data exploration of citizen study ‘Looking for Cowslips’
