@@ -18,10 +18,13 @@ Probably the biggest and most important insight I gained from the course is to a
 
 These new learnings will keep me discovering new options, plugins, and map making possibilities. I will continue developing my cartographic skills with curiosity. I am especially excited to start learning Python next fall to expand my cartography skills even further and discover new ways of working with spatial data.
 
-<figure>
-  <img src="task1_polkualepa3.png" width="800">
-  <figcaption>Figure 1. Map from exercise 1. Map of HSL city bike stations in Helsinki and Espoo in 2021. Bike station data from Helsingin Seudun Liikenteen (HSL) and small areas from Helsinki Region Environmental Services Authority (HSY). Map was created using QGIS. Used coordinate system was EPSG:3067.</figcaption>
-</figure>
+<div align="center">
+
+<img src="task1_polkualepa3.png" width="800">
+
+<p><em>Figure 1. Map from exercise 1. Map of HSL city bike stations in Helsinki and Espoo in 2021. Bike station data from Helsingin Seudun Liikenteen (HSL) and small areas from Helsinki Region Environmental Services Authority (HSY). Map was created using QGIS. Used coordinate system was EPSG:3067.</em></p>
+
+</div>
 ---
 
 ## Data exploration of citizen study ‘Looking for Cowslips’
