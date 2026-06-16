@@ -39,8 +39,7 @@ On the map below (Figure 3), we see that the countries with the most observation
 
 The interactive map below (Figure 5) shows the locations of the observations, with the proportion of S-morphs indicated using three colours. It is important to note that although the approximate value ranges are based on the paper, the exact ranges do not match perfectly. I used the ranges 0–0.499, 0.499–0.501, and 0.501–1. Higher values (red) indicate a higher proportion of S-morphs, while lower values (blue) indicate the prevalence of L-morphs. Black values indicate equal frequencies of the two morphs. The map shows which morphs are more common in which locations. From the map alone, it is clear that equal frequencies of morphs were rare.
 
-<h2>Interactive Map 1</h2>
-
+<figure>
 <iframe
 src="interactive/map1/"
 width="100%"
@@ -48,18 +47,27 @@ height="700"
 frameborder="0">
 </iframe>
 
+  <figcaption>
+    Figure 5. Interactive map showing S-morph frequency.
+  </figcaption>
+</figure>
+
 In addition to morph frequency, the general deviation of morphs from equal frequency was studied. The results indicated a weak relationship with landscape and precipitation, but a strong one with population size. Higher deviation was more frequent in small populations and lower in large ones (Aavik et al., 2025).
 
 In the following map (Figure 6), we see the general deviation from equal morph frequency (ABSdev), showing how much the frequency deviates but not in which direction. Observations with population size and 50 km × 50 km hexagons with the median deviation are visualised. Hexagons with fewer than five observations were removed to avoid weakly sampled cells. For the same reason, the median was preferred over the average. All observations are included in the point layer. Although this gives an understanding of how far from equilibrium populations in a region are, simply looking at the spatial data on a map does not provide a basis for drawing conclusions.
 
-<h2>Interactive Map 2</h2>
-
+<figure>
 <iframe
 src="interactive/map2/"
 width="100%"
 height="700"
 frameborder="0">
 </iframe>
+
+  <figcaption>
+    Figure 6. Interactive map showing general deviation from equal morph frequency (ABSdev).
+  </figcaption>
+</figure>
 
 ## Conclusion
 
