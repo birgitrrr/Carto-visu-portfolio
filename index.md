@@ -20,7 +20,7 @@ These new learnings will keep me discovering new options, plugins, and map makin
 
 <figure>
   <img src="task1_polkualepa3.png" width="800">
-  <figcaption>Figure 1. Exercise 1 map.</figcaption>
+  <figcaption>Figure 1. Map from exercise 1. Map of HSL city bike stations in Helsinki and Espoo in 2021. Bike station data from Helsingin Seudun Liikenteen (HSL) and small areas from Helsinki Region Environmental Services Authority (HSY). Map was created using QGIS. Used coordinate system was EPSG:3067.</figcaption>
 </figure>
 ---
 
