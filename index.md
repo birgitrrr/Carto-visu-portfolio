@@ -18,8 +18,6 @@ Probably the biggest and most important insight I gained from the course is to a
 
 These new learnings will keep me discovering new options, plugins, and map making possibilities. I will continue developing my cartographic skills with curiosity. I am especially excited to start learning Python next fall to expand my cartography skills even further and discover new ways of working with spatial data.
 
-## Task 1 map
-
 <figure>
   <img src="task1_polkualepa3.png" width="800">
   <figcaption>Figure 1. Exercise 1 map.</figcaption>
