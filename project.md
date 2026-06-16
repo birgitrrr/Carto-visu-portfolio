@@ -13,10 +13,13 @@ In fact, I have a personal connection with this data. The plant is edible and ve
 Since most maps I have created during my (short) GIS career have been about urban environments, I decided to choose a different topic and a different scale for this project for the sake of challenge and new insights. Biodiversity is dear to my heart and highly relevant in both urban and broader regional contexts, especially when dealing with the important question of how landscape change affects biodiversity. Biodiversity is complex and also depends on the wellbeing of pollinators. I find it fascinating how citizens can be engaged in studying such an important and large-scale challenge. In conclusion, I decided to choose a dataset that would allow me to gain new knowledge about mapmaking.
 Regarding the data used, GBIF (2026) cowslip observation data (2016–2026) was also used to visualise the approximate habitat area of the plant.
 
-<figure>
-  <img src="20180511KK0490-min_large.jpg" width="25%">
-  <figcaption>Figure 2. Photo of cowslip. Nurmenukk (n.d.).</figcaption>
-</figure>
+<div align="center">
+
+<img src="20180511KK0490-min_large.jpg" width="25%">
+
+<p><em>Figure 2. Photo of Primula veris. Looking for Cowslips (n.d.).</em></p>
+
+</div>
 
 ## Geospatial narrative
 
@@ -26,16 +29,22 @@ The citizen science campaign Looking for Cowslips gathered observations from 31 
 
 On the map below (Figure 3), we see that the countries with the most observations were Estonia, Latvia, and the UK. The flower’s habitat, according to GBIF observations, is widespread in Europe, but this does not indicate density. In addition, the grids with the highest density of observations (25–48 observations per 20 km × 20 km) were found in Estonia, Sweden, and the UK. From the bar plot (Figure 4), one can see that the highest number of observations came from the UK, Estonia, and then Latvia. Theoretically, the ratio of S- and L-morphs should be equal in a cowslip population for successful reproduction. The results of the study, however, found an excess of S-morphs. The smaller the population, the more frequent this phenomenon was. In addition, it was associated with higher summer precipitation and land-use intensity (Aavik et al., 2025).
 
+<div align="center">
 
-<figure>
-  <img src="nurmenukk5.png" width="700">
-  <figcaption>Figure 3. Map of observation density and activity in countries. Used coordinate system was ESPG:3301.</figcaption>
-</figure>
+<img src="nurmenukk5.png" width="700">
 
-<figure>
-  <img src="obs_per_qountry_over35.png" width="600">
-  <figcaption>Figure 4. Bar plot of cowslip of highest number of observations per country (N>=35).</figcaption>
-</figure>
+<p><em>Figure 3. Map of observation density and activity in countries. Used coordinate system was ESPG:3301.</em></p>
+
+</div>
+
+
+<div align="center">
+
+<img src="obs_per_qountry_over35.png" width="600">
+
+<p><em>Figure 4. Bar plot of cowslip of highest number of observations per country (N>=35).</em></p>
+
+</div>
 
 The interactive map below (Figure 5) shows the locations of the observations, with the proportion of S-morphs indicated using three colours. It is important to note that although the approximate value ranges are based on the paper, the exact ranges do not match perfectly. I used the ranges 0–0.499, 0.499–0.501, and 0.501–1. Higher values (red) indicate a higher proportion of S-morphs, while lower values (blue) indicate the prevalence of L-morphs. Black values indicate equal frequencies of the two morphs. The map shows which morphs are more common in which locations. From the map alone, it is clear that equal frequencies of morphs were rare.
 
