@@ -6,7 +6,7 @@
 
 ## Cartographic reflection
 
-Looking at my first map created during the Cartographic Visualisation course (Figure 1), I consider it fairly good. I’ll therefore start with the positive aspects of the map according to my current knowledge. Firstly, I think it is clear and visually pleasing. Most importantly, there is no excessive visual clutter. This was emphasised many times during the course – to make the map as simple as possible. I didn’t include any unnecessary borders or lines, for example around the map legend, that would attract too much attention. The colours are easily identifiable, and there are only five of them, which is within the optimal range (5–7). The map legend is situated right next to the map, which allows for optimal sight lines. The fonts and overall map readability are accessible.
+Looking at my first map created during the Cartographic Visualisation course (Figure 1), I consider it fairly good. I’ll therefore start with the positive aspects of the map according to my current knowledge. Firstly, I think it is clear and visually pleasing. Most importantly, there is no excessive visual clutter. This was emphasised many times during the course – to make the map as simple as possible. I didn’t include any unnecessary borders or lines, for example around the map legend, that would attract too much attention. The colours are easily identifiable, and there are only five of them, which is within the optimal range (5–9). The map legend is situated right next to the map, which allows for optimal sight lines. The fonts and overall map readability are accessible.
 
 <div align="center">
 
